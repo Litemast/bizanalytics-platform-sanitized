@@ -1,0 +1,12 @@
+.vs/
+**/.vs/
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+tmp/
+.env
+.env.production
+.env.local
+BizAnalytics.Frontend/.env.development
+*.user

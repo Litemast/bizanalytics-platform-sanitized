@@ -1,0 +1,14 @@
+.git
+.vs
+.codex-run
+tools
+docs
+**/bin
+**/obj
+**/node_modules
+**/dist
+*.log
+tmp-*.docx
+public-*.log
+cloudflared.log
+
